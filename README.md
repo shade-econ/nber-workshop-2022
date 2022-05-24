@@ -2,7 +2,8 @@
 
 This repo contains code for the tutorials of the Spring 2022 heterogeneous-agent macro workshop at the NBER taught by Adrien Auclert, Bence Bardóczy, Michael Cai, Matt Rognlie, and Ludwig Straub.
 
-An agenda for the workshop is available here: 
+An agenda for the workshop is available here:
+
 https://www.nber.org/conferences/heterogeneous-agent-macro-workshop-spring-2022
 
 This is also where we will post lecture notes and other reading materials.
