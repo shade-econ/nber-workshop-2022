@@ -16,4 +16,4 @@ There are many outstanding resources you can find online, but two good introduct
 
 If you are accustomed to Matlab or Julia, QuantEcon's [Matlab-Python-Julia cheatsheet](https://cheatsheets.quantecon.org/) can be useful, as can [NumPy for Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) (ignoring now-obsolete "matrix" class at the end). 
 
-Overall, a good goal prior to the workshop is to make sure that you can run and mostly follow the [Standard Incomplete Markets Steady State notebook](https://github.com/shade-econ/nber-workshop-2022/blob/main/Tutorial%200%2C%20Standard%20Incomplete%20Markets%20Steady%20State.ipynb), which covers the initial material of the class and does not require our SSJ toolkit.
+Overall, a good goal prior to the workshop is to make sure that you can run and mostly follow the [Standard Incomplete Markets Steady State notebook](https://github.com/shade-econ/nber-workshop-2022/blob/main/Tutorials/Tutorial%200%2C%20Standard%20Incomplete%20Markets%20Steady%20State.ipynb), which covers the initial material of the class and does not require our SSJ toolkit.
